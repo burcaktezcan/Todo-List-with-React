@@ -1,4 +1,4 @@
-##Project view
+## Project view
 
 <img src=https://raw.githubusercontent.com/burcaktezcan/Todo-List-with-React/main/TodoList%20view.PNG weight=500 height=700></img>
 
